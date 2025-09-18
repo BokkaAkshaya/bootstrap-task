@@ -20,5 +20,5 @@
 - *Git & GitHub Pages*
 
 ## 📤 Submission
-- GitHub Repo: https://github.com/Shravani-2309/bootstrap-task
-- Live Demo: https://Shravani-2309.github.io/bootstrap-task/
+- GitHub Repo: https://github.com/BokkaAkshaya/bootstrap-task
+- Live Demo: https://BokkaAkshaya.github.io/bootstrap-task/
